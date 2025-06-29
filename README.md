@@ -3,8 +3,6 @@
 
 ### 🔗 배포 주소
 - [https://상현sbb.world](https://xn--sbb-2y4np46f.world/)
-- 
-
 ---
 
 ### ✅ 구현한 항목 (점프 투 스프링부트 4장 기준)
